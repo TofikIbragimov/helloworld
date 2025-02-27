@@ -12,6 +12,8 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Oh, hi, Tofik!");
+            int a = 19;
+            Console.WriteLine($"I am {a} years old");
             Console.ReadKey();
         }
     }
